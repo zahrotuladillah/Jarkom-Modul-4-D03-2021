@@ -6,14 +6,14 @@
 
 ## Daftar Isi
 - [Topografi](#topografi)
-- [Subnet](#subnet)
+- [Subnetting](#subnetting)
 - [Routing](#routing)
 - [Testing](#testing)
 
 ## Topografi
 ![image](https://user-images.githubusercontent.com/72771774/143580040-3ca46e05-45a4-4e47-9de1-1b4524b743b1.png)
 
-## Subnet
+## Subnetting
 ### Penjelasan Jawaban
 
 ## Routing
